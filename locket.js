@@ -22,7 +22,7 @@ var hiyucute = {
   ownership_type: "PURCHASED",
   billing_issues_detected_at: null,
   period_type: "normal",
-  expires_date: "2099-12-18T01:04:17Z",
+  expires_date: "2222-02-22T01:04:17Z",
   grace_period_expires_date: null,
   unsubscribe_detected_at: null,
   original_purchase_date: "2024-07-28T01:04:18Z",
@@ -32,7 +32,7 @@ var hiyucute = {
 
 var hieu2202 = {
   grace_period_expires_date: null,
-  purchase_date: "2024-07-28T01:04:17Z",
+  purchase_date: "2022-02-22T01:04:17Z",
   product_identifier: "com.hiyucute.premium.yearly",
   expires_date: "2099-12-18T01:04:17Z"
 };
